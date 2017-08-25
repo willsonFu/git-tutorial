@@ -7,3 +7,4 @@ new line
 - branch b
 
 - fix b
+-feature-c
