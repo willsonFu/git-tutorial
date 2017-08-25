@@ -2,7 +2,8 @@
 
 feature-A 
 
-<<<<<<< HEAD
-=======
 new line
->>>>>>> feature-A
+
+- branch b
+
+- fix b
