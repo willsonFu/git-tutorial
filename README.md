@@ -8,3 +8,5 @@ new line
 
 - fix b
 -feature-c
+
+test fetch
