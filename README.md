@@ -10,3 +10,5 @@ new line
 -feature-c
 
 test fetch
+
+test pull
